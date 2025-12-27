@@ -115,6 +115,8 @@ else:
         ET.SubElement(item, "guid").text = e["file_link"]
         ET.SubElement(item, "pubDate").text = pub_date
         ET.SubElement(item, "author").text = "Alesh Konopka"
+        if e["episode_num"] is not None:
+            ET.SubElement(item, "itunes:episode").text = str(e["episode_num"])
 
 # Formátovaný výstup
 rough_string = ET.tostring(rss, encoding="utf-8")
