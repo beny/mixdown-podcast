@@ -1,14 +1,103 @@
 <?xml version="1.0" ?>
 <rss version="2.0">
   <channel>
-    <title>COLOR Music Radio - MixDown Podcast</title>
-    <link>https://radiocolor.cz</link>
-    <description>MixDown show by Alesh Konopka</description>
+    <title>Mix DOWN</title>
+    <link>https://radiocolor.cz/showpage.php?name=mixdown</link>
+    <description>Hodina muziky od 60. let až po současnost s DJ Alešem Konopkou z Opavského studia. Pestrobarevná, převážně klubová, taneční, komerčně - nekomerční hudba namíchaná do jednoho non-stop hudebního mixu.</description>
     <language>cs</language>
     <generator>Python script</generator>
+    <author>Alesh Konopka</author>
+    <image>
+      <url>https://radiocolor.cz/porady/mixdown.jpg</url>
+      <title>Mix DOWN</title>
+      <link>https://radiocolor.cz/showpage.php?name=mixdown</link>
+    </image>
+    <item>
+      <title>Mix DOWN #304</title>
+      <enclosure url="https://radiocolor.cz/download.php?soubor=2740" type="audio/mpeg"/>
+      <guid>https://radiocolor.cz/download.php?soubor=2740</guid>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0200</pubDate>
+      <author>Alesh Konopka</author>
+    </item>
+    <item>
+      <title>Mix DOWN #303</title>
+      <enclosure url="https://radiocolor.cz/download.php?soubor=2730" type="audio/mpeg"/>
+      <guid>https://radiocolor.cz/download.php?soubor=2730</guid>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0200</pubDate>
+      <author>Alesh Konopka</author>
+    </item>
+    <item>
+      <title>Mix DOWN #302</title>
+      <enclosure url="https://radiocolor.cz/download.php?soubor=2723" type="audio/mpeg"/>
+      <guid>https://radiocolor.cz/download.php?soubor=2723</guid>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0200</pubDate>
+      <author>Alesh Konopka</author>
+    </item>
+    <item>
+      <title>Mix DOWN #301</title>
+      <enclosure url="https://radiocolor.cz/download.php?soubor=2717" type="audio/mpeg"/>
+      <guid>https://radiocolor.cz/download.php?soubor=2717</guid>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0200</pubDate>
+      <author>Alesh Konopka</author>
+    </item>
+    <item>
+      <title>Mix DOWN #300</title>
+      <enclosure url="https://radiocolor.cz/download.php?soubor=2706" type="audio/mpeg"/>
+      <guid>https://radiocolor.cz/download.php?soubor=2706</guid>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0200</pubDate>
+      <author>Alesh Konopka</author>
+    </item>
+    <item>
+      <title>Mix DOWN #299</title>
+      <enclosure url="https://radiocolor.cz/download.php?soubor=2702" type="audio/mpeg"/>
+      <guid>https://radiocolor.cz/download.php?soubor=2702</guid>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0200</pubDate>
+      <author>Alesh Konopka</author>
+    </item>
+    <item>
+      <title>Mix DOWN #298</title>
+      <enclosure url="https://radiocolor.cz/download.php?soubor=2690" type="audio/mpeg"/>
+      <guid>https://radiocolor.cz/download.php?soubor=2690</guid>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0200</pubDate>
+      <author>Alesh Konopka</author>
+    </item>
+    <item>
+      <title>Mix DOWN #297</title>
+      <enclosure url="https://radiocolor.cz/download.php?soubor=2681" type="audio/mpeg"/>
+      <guid>https://radiocolor.cz/download.php?soubor=2681</guid>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0200</pubDate>
+      <author>Alesh Konopka</author>
+    </item>
+    <item>
+      <title>Mix DOWN #296</title>
+      <enclosure url="https://radiocolor.cz/download.php?soubor=2674" type="audio/mpeg"/>
+      <guid>https://radiocolor.cz/download.php?soubor=2674</guid>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0200</pubDate>
+      <author>Alesh Konopka</author>
+    </item>
+    <item>
+      <title>Mix DOWN #295</title>
+      <enclosure url="https://radiocolor.cz/download.php?soubor=2671" type="audio/mpeg"/>
+      <guid>https://radiocolor.cz/download.php?soubor=2671</guid>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0200</pubDate>
+      <author>Alesh Konopka</author>
+    </item>
+    <item>
+      <title>Mix DOWN #294</title>
+      <enclosure url="https://radiocolor.cz/download.php?soubor=2647" type="audio/mpeg"/>
+      <guid>https://radiocolor.cz/download.php?soubor=2647</guid>
+      <pubDate>Sun, 06 Jul 2025 00:00:00 +0200</pubDate>
+      <author>Alesh Konopka</author>
+    </item>
+    <item>
+      <title>Mix DOWN #293</title>
+      <enclosure url="https://radiocolor.cz/download.php?soubor=2641" type="audio/mpeg"/>
+      <guid>https://radiocolor.cz/download.php?soubor=2641</guid>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0200</pubDate>
+      <author>Alesh Konopka</author>
+    </item>
     <item>
       <title>Mix DOWN #292</title>
-      <description>Mix DOWN #292 - 55 min</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2635" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2635</guid>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0200</pubDate>
@@ -16,7 +105,6 @@
     </item>
     <item>
       <title>Mix DOWN #291</title>
-      <description>Mix DOWN #291 - 55 min</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2626" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2626</guid>
       <pubDate>Sun, 18 May 2025 00:00:00 +0200</pubDate>
@@ -24,7 +112,6 @@
     </item>
     <item>
       <title>Mix DOWN #290</title>
-      <description>Mix DOWN #290 - 55 min</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2621" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2621</guid>
       <pubDate>Sat, 10 May 2025 00:00:00 +0200</pubDate>
@@ -32,7 +119,6 @@
     </item>
     <item>
       <title>Mix DOWN #289</title>
-      <description>Mix DOWN #289 - 55 min</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2618" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2618</guid>
       <pubDate>Sat, 03 May 2025 00:00:00 +0200</pubDate>
@@ -40,7 +126,6 @@
     </item>
     <item>
       <title>Mix DOWN #288</title>
-      <description>Mix DOWN #288 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2607" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2607</guid>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0200</pubDate>
@@ -48,7 +133,6 @@
     </item>
     <item>
       <title>Mix DOWN #287</title>
-      <description>Mix DOWN #287 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2598" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2598</guid>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0200</pubDate>
@@ -56,7 +140,6 @@
     </item>
     <item>
       <title>DJ ALESH - MIXDOWN DEEP HOUSE Alesh Konopka</title>
-      <description>DJ ALESH - MIXDOWN DEEP HOUSE Alesh Konopka - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2594" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2594</guid>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0200</pubDate>
@@ -64,7 +147,6 @@
     </item>
     <item>
       <title>Mix DOWN #286</title>
-      <description>Mix DOWN #286 - 55 min</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2593" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2593</guid>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0200</pubDate>
@@ -72,7 +154,6 @@
     </item>
     <item>
       <title>Mix DOWN #285</title>
-      <description>Mix DOWN #285 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2575" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2575</guid>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0200</pubDate>
@@ -80,7 +161,6 @@
     </item>
     <item>
       <title>Mix DOWN #284</title>
-      <description>Mix DOWN #284 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2559" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2559</guid>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0200</pubDate>
@@ -88,7 +168,6 @@
     </item>
     <item>
       <title>Mix DOWN #283</title>
-      <description>Mix DOWN #283 - 55 min</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2551" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2551</guid>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0200</pubDate>
@@ -96,7 +175,6 @@
     </item>
     <item>
       <title>Mix DOWN #282</title>
-      <description>Mix DOWN #282 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2544" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2544</guid>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0200</pubDate>
@@ -104,7 +182,6 @@
     </item>
     <item>
       <title>Mix DOWN #281</title>
-      <description>Mix DOWN #281 - 55 min</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2524" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2524</guid>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0200</pubDate>
@@ -112,7 +189,6 @@
     </item>
     <item>
       <title>Mix DOWN #280</title>
-      <description>Mix DOWN #280 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2519" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2519</guid>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0200</pubDate>
@@ -120,7 +196,6 @@
     </item>
     <item>
       <title>Mix DOWN #279</title>
-      <description>Mix DOWN #279 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2511" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2511</guid>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0200</pubDate>
@@ -128,7 +203,6 @@
     </item>
     <item>
       <title>Mix DOWN #278</title>
-      <description>Mix DOWN #278 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2508" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2508</guid>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0200</pubDate>
@@ -136,7 +210,6 @@
     </item>
     <item>
       <title>Mix DOWN #277</title>
-      <description>Mix DOWN #277 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2500" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2500</guid>
       <pubDate>Sun, 24 Nov 2024 00:00:00 +0200</pubDate>
@@ -144,7 +217,6 @@
     </item>
     <item>
       <title>Mix DOWN #276</title>
-      <description>Mix DOWN #276 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2497" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2497</guid>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0200</pubDate>
@@ -152,7 +224,6 @@
     </item>
     <item>
       <title>Mix DOWN #275</title>
-      <description>Mix DOWN #275 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2475" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2475</guid>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0200</pubDate>
@@ -160,7 +231,6 @@
     </item>
     <item>
       <title>Mix DOWN #274</title>
-      <description>Mix DOWN #274 - 55 min</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2472" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2472</guid>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0200</pubDate>
@@ -168,7 +238,6 @@
     </item>
     <item>
       <title>Mix DOWN #273</title>
-      <description>Mix DOWN #273 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2469" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2469</guid>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0200</pubDate>
@@ -176,7 +245,6 @@
     </item>
     <item>
       <title>Mix DOWN #272</title>
-      <description>Mix DOWN #272 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2464" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2464</guid>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0200</pubDate>
@@ -184,7 +252,6 @@
     </item>
     <item>
       <title>Mix DOWN #271</title>
-      <description>Mix DOWN #271 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2456" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2456</guid>
       <pubDate>Wed, 02 Oct 2024 00:00:00 +0200</pubDate>
@@ -192,7 +259,6 @@
     </item>
     <item>
       <title>Mix DOWN #270</title>
-      <description>Mix DOWN #270 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2447" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2447</guid>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0200</pubDate>
@@ -200,7 +266,6 @@
     </item>
     <item>
       <title>Mix DOWN #269</title>
-      <description>Mix DOWN #269 - 55 min</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2440" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2440</guid>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0200</pubDate>
@@ -208,7 +273,6 @@
     </item>
     <item>
       <title>Mix DOWN #268</title>
-      <description>Mix DOWN #268 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2435" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2435</guid>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0200</pubDate>
@@ -216,7 +280,6 @@
     </item>
     <item>
       <title>Mix DOWN #267</title>
-      <description>Mix DOWN #267 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2428" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2428</guid>
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0200</pubDate>
@@ -224,7 +287,6 @@
     </item>
     <item>
       <title>Mix DOWN #266</title>
-      <description>Mix DOWN #266 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2420" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2420</guid>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0200</pubDate>
@@ -232,7 +294,6 @@
     </item>
     <item>
       <title>Mix DOWN #265</title>
-      <description>Mix DOWN #265 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2419" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2419</guid>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0200</pubDate>
@@ -240,7 +301,6 @@
     </item>
     <item>
       <title>Mix DOWN #264</title>
-      <description>Mix DOWN #264 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2417" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2417</guid>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0200</pubDate>
@@ -248,7 +308,6 @@
     </item>
     <item>
       <title>Mix DOWN #263</title>
-      <description>Mix DOWN #263 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2411" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2411</guid>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0200</pubDate>
@@ -256,7 +315,6 @@
     </item>
     <item>
       <title>Mix DOWN #262</title>
-      <description>Mix DOWN #262 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2392" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2392</guid>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0200</pubDate>
@@ -264,7 +322,6 @@
     </item>
     <item>
       <title>Mix DOWN #261</title>
-      <description>Mix DOWN #261 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2380" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2380</guid>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0200</pubDate>
@@ -272,7 +329,6 @@
     </item>
     <item>
       <title>Mix DOWN #260</title>
-      <description>Mix DOWN #260 - 55 min</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2376" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2376</guid>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0200</pubDate>
@@ -280,7 +336,6 @@
     </item>
     <item>
       <title>Mix DOWN #259</title>
-      <description>Mix DOWN #259 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2370" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2370</guid>
       <pubDate>Wed, 22 May 2024 00:00:00 +0200</pubDate>
@@ -288,7 +343,6 @@
     </item>
     <item>
       <title>Mix DOWN #258</title>
-      <description>Mix DOWN #258 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2369" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2369</guid>
       <pubDate>Sun, 19 May 2024 00:00:00 +0200</pubDate>
@@ -296,7 +350,6 @@
     </item>
     <item>
       <title>Mix DOWN #257</title>
-      <description>Mix DOWN #257 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2361" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2361</guid>
       <pubDate>Sun, 12 May 2024 00:00:00 +0200</pubDate>
@@ -304,7 +357,6 @@
     </item>
     <item>
       <title>Mix DOWN #256</title>
-      <description>Mix DOWN #256 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2358" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2358</guid>
       <pubDate>Sat, 04 May 2024 00:00:00 +0200</pubDate>
@@ -312,7 +364,6 @@
     </item>
     <item>
       <title>Mix DOWN #255</title>
-      <description>Mix DOWN #255 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2355" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2355</guid>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0200</pubDate>
@@ -320,7 +371,6 @@
     </item>
     <item>
       <title>Mix DOWN #254</title>
-      <description>Mix DOWN #254 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2354" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2354</guid>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0200</pubDate>
@@ -328,7 +378,6 @@
     </item>
     <item>
       <title>Mix DOWN #253</title>
-      <description>Mix DOWN #253 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2339" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2339</guid>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0200</pubDate>
@@ -336,7 +385,6 @@
     </item>
     <item>
       <title>Mix DOWN #252</title>
-      <description>Mix DOWN #252 - 55min</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2332" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2332</guid>
       <pubDate>Thu, 11 Apr 2024 00:00:00 +0200</pubDate>
@@ -344,7 +392,6 @@
     </item>
     <item>
       <title>Mix DOWN #251</title>
-      <description>Mix DOWN #251 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2316" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2316</guid>
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0200</pubDate>
@@ -352,7 +399,6 @@
     </item>
     <item>
       <title>Mix DOWN #250</title>
-      <description>Mix DOWN #250 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2308" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2308</guid>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0200</pubDate>
@@ -360,7 +406,6 @@
     </item>
     <item>
       <title>Mix DOWN #249</title>
-      <description>Mix DOWN #249 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2307" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2307</guid>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0200</pubDate>
@@ -368,7 +413,6 @@
     </item>
     <item>
       <title>Mix DOWN #248</title>
-      <description>Mix DOWN #248 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2306" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2306</guid>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0200</pubDate>
@@ -376,7 +420,6 @@
     </item>
     <item>
       <title>Mix DOWN #247</title>
-      <description>Mix DOWN #247 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2305" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2305</guid>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0200</pubDate>
@@ -384,7 +427,6 @@
     </item>
     <item>
       <title>Mix DOWN #246</title>
-      <description>Mix DOWN #246 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2304" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2304</guid>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0200</pubDate>
@@ -392,7 +434,6 @@
     </item>
     <item>
       <title>Mix DOWN #245</title>
-      <description>Mix DOWN #245 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2303" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2303</guid>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0200</pubDate>
@@ -400,7 +441,6 @@
     </item>
     <item>
       <title>Mix DOWN #244</title>
-      <description>Mix DOWN #244 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2302" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2302</guid>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0200</pubDate>
@@ -408,7 +448,6 @@
     </item>
     <item>
       <title>Mix DOWN #243</title>
-      <description>Mix DOWN #243 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2301" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2301</guid>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0200</pubDate>
@@ -416,7 +455,6 @@
     </item>
     <item>
       <title>Mix DOWN #242</title>
-      <description>Mix DOWN #242 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2300" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2300</guid>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0200</pubDate>
@@ -424,7 +462,6 @@
     </item>
     <item>
       <title>Mix DOWN #241</title>
-      <description>Mix DOWN #241 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2253" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2253</guid>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0200</pubDate>
@@ -432,7 +469,6 @@
     </item>
     <item>
       <title>Mix DOWN #240</title>
-      <description>Mix DOWN #240 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2246" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2246</guid>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0200</pubDate>
@@ -440,7 +476,6 @@
     </item>
     <item>
       <title>Mix DOWN #239</title>
-      <description>Mix DOWN #239 - 55min</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2223" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2223</guid>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0200</pubDate>
@@ -448,7 +483,6 @@
     </item>
     <item>
       <title>Mix DOWN #238</title>
-      <description>Mix DOWN #238 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2200" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2200</guid>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0200</pubDate>
@@ -456,7 +490,6 @@
     </item>
     <item>
       <title>Mix DOWN #237</title>
-      <description>Mix DOWN #237 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2199" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2199</guid>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0200</pubDate>
@@ -464,7 +497,6 @@
     </item>
     <item>
       <title>Mix DOWN #236</title>
-      <description>Mix DOWN #236 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2198" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2198</guid>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0200</pubDate>
@@ -472,7 +504,6 @@
     </item>
     <item>
       <title>Mix DOWN #235</title>
-      <description>Mix DOWN #235 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2197" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2197</guid>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0200</pubDate>
@@ -480,7 +511,6 @@
     </item>
     <item>
       <title>Mix DOWN #234</title>
-      <description>Mix DOWN #234 - 55 min.</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2196" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2196</guid>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0200</pubDate>
@@ -488,7 +518,6 @@
     </item>
     <item>
       <title>Mix DOWN #233</title>
-      <description>Mix DOWN #233 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2165" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2165</guid>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0200</pubDate>
@@ -496,7 +525,6 @@
     </item>
     <item>
       <title>Mix DOWN #232</title>
-      <description>Mix DOWN #232 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2150" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2150</guid>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0200</pubDate>
@@ -504,7 +532,6 @@
     </item>
     <item>
       <title>Mix DOWN #231</title>
-      <description>Mix DOWN #231 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2099" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2099</guid>
       <pubDate>Fri, 02 Jun 2023 00:00:00 +0200</pubDate>
@@ -512,7 +539,6 @@
     </item>
     <item>
       <title>Mix DOWN #230</title>
-      <description>Mix DOWN #230 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2091" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2091</guid>
       <pubDate>Thu, 18 May 2023 00:00:00 +0200</pubDate>
@@ -520,7 +546,6 @@
     </item>
     <item>
       <title>Mix DOWN #229</title>
-      <description>Mix DOWN #229 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2090" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2090</guid>
       <pubDate>Thu, 18 May 2023 00:00:00 +0200</pubDate>
@@ -528,7 +553,6 @@
     </item>
     <item>
       <title>Mix DOWN #228</title>
-      <description>Mix DOWN #228 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2085" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2085</guid>
       <pubDate>Wed, 17 May 2023 00:00:00 +0200</pubDate>
@@ -536,7 +560,6 @@
     </item>
     <item>
       <title>Mix DOWN #227</title>
-      <description>Mix DOWN #227 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2076" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2076</guid>
       <pubDate>Thu, 04 May 2023 00:00:00 +0200</pubDate>
@@ -544,7 +567,6 @@
     </item>
     <item>
       <title>Mix DOWN #226</title>
-      <description>Mix DOWN #226 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2075" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2075</guid>
       <pubDate>Thu, 04 May 2023 00:00:00 +0200</pubDate>
@@ -552,7 +574,6 @@
     </item>
     <item>
       <title>Mix DOWN #225</title>
-      <description>Mix DOWN #225 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2065" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2065</guid>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0200</pubDate>
@@ -560,7 +581,6 @@
     </item>
     <item>
       <title>Mix DOWN #224</title>
-      <description>Mix DOWN #224 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2062" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2062</guid>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0200</pubDate>
@@ -568,7 +588,6 @@
     </item>
     <item>
       <title>Mix DOWN #223</title>
-      <description>Mix DOWN #223 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2061" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2061</guid>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0200</pubDate>
@@ -576,7 +595,6 @@
     </item>
     <item>
       <title>Mix DOWN #222</title>
-      <description>Mix DOWN #222 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2060" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2060</guid>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0200</pubDate>
@@ -584,7 +602,6 @@
     </item>
     <item>
       <title>Mix DOWN #221</title>
-      <description>Mix DOWN #221 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2045" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2045</guid>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate>
@@ -592,7 +609,6 @@
     </item>
     <item>
       <title>Mix DOWN #220</title>
-      <description>Mix DOWN #220 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2044" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2044</guid>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate>
@@ -600,7 +616,6 @@
     </item>
     <item>
       <title>Mix DOWN #219</title>
-      <description>Mix DOWN #219 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2031" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2031</guid>
       <pubDate>Sun, 19 Mar 2023 00:00:00 +0200</pubDate>
@@ -608,7 +623,6 @@
     </item>
     <item>
       <title>Mix DOWN #218</title>
-      <description>Mix DOWN #218 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2022" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2022</guid>
       <pubDate>Wed, 08 Mar 2023 00:00:00 +0200</pubDate>
@@ -616,7 +630,6 @@
     </item>
     <item>
       <title>Mix DOWN #217</title>
-      <description>Mix DOWN #217 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2021" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2021</guid>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0200</pubDate>
@@ -624,7 +637,6 @@
     </item>
     <item>
       <title>Mix DOWN #216</title>
-      <description>Mix DOWN #216 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2020" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2020</guid>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0200</pubDate>
@@ -632,7 +644,6 @@
     </item>
     <item>
       <title>Mix DOWN #215</title>
-      <description>Mix DOWN #215 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2019" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2019</guid>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0200</pubDate>
@@ -640,7 +651,6 @@
     </item>
     <item>
       <title>Mix DOWN #214</title>
-      <description>Mix DOWN #214 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1999" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1999</guid>
       <pubDate>Thu, 16 Feb 2023 00:00:00 +0200</pubDate>
@@ -648,7 +658,6 @@
     </item>
     <item>
       <title>Mix DOWN #213</title>
-      <description>Mix DOWN #213 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1979" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1979</guid>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0200</pubDate>
@@ -656,7 +665,6 @@
     </item>
     <item>
       <title>Mix DOWN #212</title>
-      <description>Mix DOWN #212 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1978" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1978</guid>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0200</pubDate>
@@ -664,7 +672,6 @@
     </item>
     <item>
       <title>Mix DOWN #211</title>
-      <description>Mix DOWN #211 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1977" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1977</guid>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0200</pubDate>
@@ -672,7 +679,6 @@
     </item>
     <item>
       <title>Mix DOWN #210</title>
-      <description>Mix DOWN #210 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1976" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1976</guid>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0200</pubDate>
@@ -680,7 +686,6 @@
     </item>
     <item>
       <title>Mix DOWN #209</title>
-      <description>Mix DOWN #209 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1969" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1969</guid>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0200</pubDate>
@@ -688,7 +693,6 @@
     </item>
     <item>
       <title>Mix DOWN #208</title>
-      <description>Mix DOWN #208 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1968" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1968</guid>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0200</pubDate>
@@ -696,7 +700,6 @@
     </item>
     <item>
       <title>Mix DOWN #207</title>
-      <description>Mix DOWN #207 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1967" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1967</guid>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0200</pubDate>
@@ -704,7 +707,6 @@
     </item>
     <item>
       <title>Mix DOWN #206</title>
-      <description>Mix DOWN #206 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1966" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1966</guid>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0200</pubDate>
@@ -712,7 +714,6 @@
     </item>
     <item>
       <title>Mix DOWN #205</title>
-      <description>Mix DOWN #205 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1965" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1965</guid>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0200</pubDate>
@@ -720,7 +721,6 @@
     </item>
     <item>
       <title>Mix DOWN #204</title>
-      <description>Mix DOWN #204 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1946" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1946</guid>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0200</pubDate>
@@ -728,7 +728,6 @@
     </item>
     <item>
       <title>Mix DOWN #203</title>
-      <description>Mix DOWN #203 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1945" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1945</guid>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0200</pubDate>
@@ -736,7 +735,6 @@
     </item>
     <item>
       <title>Mix DOWN #202</title>
-      <description>Mix DOWN #202 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1944" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1944</guid>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0200</pubDate>
@@ -744,7 +742,6 @@
     </item>
     <item>
       <title>Mix DOWN #201</title>
-      <description>Mix DOWN #201 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1930" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1930</guid>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0200</pubDate>
@@ -752,7 +749,6 @@
     </item>
     <item>
       <title>Mix DOWN #200</title>
-      <description>Mix DOWN #200 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1929" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1929</guid>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0200</pubDate>
@@ -760,7 +756,6 @@
     </item>
     <item>
       <title>Mix DOWN #199</title>
-      <description>Mix DOWN #199 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1891" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1891</guid>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0200</pubDate>
@@ -768,7 +763,6 @@
     </item>
     <item>
       <title>Mix DOWN #198</title>
-      <description>Mix DOWN #198 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1890" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1890</guid>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0200</pubDate>
@@ -776,7 +770,6 @@
     </item>
     <item>
       <title>Mix DOWN #197</title>
-      <description>Mix DOWN #197 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1889" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1889</guid>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0200</pubDate>
@@ -784,7 +777,6 @@
     </item>
     <item>
       <title>Mix DOWN #196</title>
-      <description>Mix DOWN #196 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1888" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1888</guid>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0200</pubDate>
@@ -792,7 +784,6 @@
     </item>
     <item>
       <title>Mix DOWN #195</title>
-      <description>Mix DOWN #195 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1887" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1887</guid>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0200</pubDate>
@@ -800,7 +791,6 @@
     </item>
     <item>
       <title>Mix DOWN #194</title>
-      <description>Mix DOWN #194 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1862" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1862</guid>
       <pubDate>Thu, 03 Nov 2022 00:00:00 +0200</pubDate>
@@ -808,7 +798,6 @@
     </item>
     <item>
       <title>Mix DOWN #193</title>
-      <description>Mix DOWN #193 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1853" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1853</guid>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0200</pubDate>
@@ -816,7 +805,6 @@
     </item>
     <item>
       <title>Mix DOWN #192</title>
-      <description>Mix DOWN #192 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1852" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1852</guid>
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0200</pubDate>
@@ -824,7 +812,6 @@
     </item>
     <item>
       <title>Mix DOWN #191</title>
-      <description>Mix DOWN #191 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1848" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1848</guid>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0200</pubDate>
@@ -832,7 +819,6 @@
     </item>
     <item>
       <title>Mix DOWN #190</title>
-      <description>Mix DOWN #190 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1847" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1847</guid>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0200</pubDate>
@@ -840,7 +826,6 @@
     </item>
     <item>
       <title>Mix DOWN #189</title>
-      <description>Mix DOWN #189 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1836" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1836</guid>
       <pubDate>Sun, 02 Oct 2022 00:00:00 +0200</pubDate>
@@ -848,7 +833,6 @@
     </item>
     <item>
       <title>Mix DOWN #188</title>
-      <description>Mix DOWN #188 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1833" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1833</guid>
       <pubDate>Thu, 29 Sep 2022 00:00:00 +0200</pubDate>
@@ -856,7 +840,6 @@
     </item>
     <item>
       <title>Mix DOWN #187</title>
-      <description>Mix DOWN #187 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1828" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1828</guid>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0200</pubDate>
@@ -864,7 +847,6 @@
     </item>
     <item>
       <title>Mix DOWN #186</title>
-      <description>Mix DOWN #186 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1823" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1823</guid>
       <pubDate>Fri, 09 Sep 2022 00:00:00 +0200</pubDate>
@@ -872,7 +854,6 @@
     </item>
     <item>
       <title>Mix DOWN #185</title>
-      <description>Mix DOWN #185 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1822" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1822</guid>
       <pubDate>Fri, 09 Sep 2022 00:00:00 +0200</pubDate>
@@ -880,7 +861,6 @@
     </item>
     <item>
       <title>Mix DOWN #184</title>
-      <description>Mix DOWN #184 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1818" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1818</guid>
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0200</pubDate>
@@ -888,7 +868,6 @@
     </item>
     <item>
       <title>Mix DOWN #183</title>
-      <description>Mix DOWN #183 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1805" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1805</guid>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0200</pubDate>
@@ -896,7 +875,6 @@
     </item>
     <item>
       <title>Mix DOWN #182</title>
-      <description>Mix DOWN #182 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1798" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1798</guid>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0200</pubDate>
@@ -904,7 +882,6 @@
     </item>
     <item>
       <title>Mix DOWN #181</title>
-      <description>Mix DOWN #181 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1797" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1797</guid>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0200</pubDate>
@@ -912,7 +889,6 @@
     </item>
     <item>
       <title>Mix DOWN #180</title>
-      <description>Mix DOWN #180 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1794" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1794</guid>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0200</pubDate>
@@ -920,7 +896,6 @@
     </item>
     <item>
       <title>Mix DOWN #179</title>
-      <description>Mix DOWN #179 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1789" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1789</guid>
       <pubDate>Mon, 11 Jul 2022 00:00:00 +0200</pubDate>
@@ -928,7 +903,6 @@
     </item>
     <item>
       <title>Mix DOWN #178</title>
-      <description>Mix DOWN #178 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1784" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1784</guid>
       <pubDate>Sun, 03 Jul 2022 00:00:00 +0200</pubDate>
@@ -936,7 +910,6 @@
     </item>
     <item>
       <title>Mix DOWN #177</title>
-      <description>Mix DOWN #177 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1777" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1777</guid>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0200</pubDate>
@@ -944,7 +917,6 @@
     </item>
     <item>
       <title>Mix DOWN #176</title>
-      <description>Mix DOWN #176 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1775" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1775</guid>
       <pubDate>Sat, 18 Jun 2022 00:00:00 +0200</pubDate>
@@ -952,7 +924,6 @@
     </item>
     <item>
       <title>Mix DOWN #175</title>
-      <description>Mix DOWN #175 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1770" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1770</guid>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0200</pubDate>
@@ -960,7 +931,6 @@
     </item>
     <item>
       <title>Mix DOWN #174</title>
-      <description>Mix DOWN #174 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1766" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1766</guid>
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0200</pubDate>
@@ -968,7 +938,6 @@
     </item>
     <item>
       <title>Mix DOWN #173</title>
-      <description>Mix DOWN #173 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1759" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1759</guid>
       <pubDate>Fri, 03 Jun 2022 00:00:00 +0200</pubDate>
@@ -976,7 +945,6 @@
     </item>
     <item>
       <title>Mix DOWN #172</title>
-      <description>Mix DOWN #172 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1754" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1754</guid>
       <pubDate>Thu, 02 Jun 2022 00:00:00 +0200</pubDate>
@@ -984,7 +952,6 @@
     </item>
     <item>
       <title>Mix DOWN #171</title>
-      <description>Mix DOWN #171 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1742" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1742</guid>
       <pubDate>Mon, 16 May 2022 00:00:00 +0200</pubDate>
@@ -992,7 +959,6 @@
     </item>
     <item>
       <title>Mix DOWN #170</title>
-      <description>Mix DOWN #170 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1732" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1732</guid>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
@@ -1000,7 +966,6 @@
     </item>
     <item>
       <title>DJ Alesh Konopka - Back To Techno Trax Alesh Konopka</title>
-      <description>DJ Alesh Konopka - Back To Techno Trax Alesh Konopka - Special</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1729" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1729</guid>
       <pubDate>Sat, 30 Apr 2022 00:00:00 +0200</pubDate>
@@ -1008,7 +973,6 @@
     </item>
     <item>
       <title>Mix DOWN #169</title>
-      <description>Mix DOWN #169 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1726" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1726</guid>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0200</pubDate>
@@ -1016,7 +980,6 @@
     </item>
     <item>
       <title>Mix DOWN #168</title>
-      <description>Mix DOWN #168 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1701" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1701</guid>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0200</pubDate>
@@ -1024,7 +987,6 @@
     </item>
     <item>
       <title>Mix DOWN #167</title>
-      <description>Mix DOWN #167 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1700" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1700</guid>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0200</pubDate>
@@ -1032,7 +994,6 @@
     </item>
     <item>
       <title>Mix DOWN #166</title>
-      <description>Mix DOWN #166 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1689" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1689</guid>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0200</pubDate>
@@ -1040,7 +1001,6 @@
     </item>
     <item>
       <title>Mix DOWN #165</title>
-      <description>Mix DOWN #165 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1688" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1688</guid>
       <pubDate>Wed, 16 Mar 2022 00:00:00 +0200</pubDate>
@@ -1048,7 +1008,6 @@
     </item>
     <item>
       <title>Mix DOWN #164</title>
-      <description>Mix DOWN #164 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1681" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1681</guid>
       <pubDate>Sun, 13 Mar 2022 00:00:00 +0200</pubDate>
@@ -1056,7 +1015,6 @@
     </item>
     <item>
       <title>Mix DOWN #163</title>
-      <description>Mix DOWN #163 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1680" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1680</guid>
       <pubDate>Sun, 13 Mar 2022 00:00:00 +0200</pubDate>
@@ -1064,7 +1022,6 @@
     </item>
     <item>
       <title>Mix DOWN #162</title>
-      <description>Mix DOWN #162 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1666" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1666</guid>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0200</pubDate>
@@ -1072,7 +1029,6 @@
     </item>
     <item>
       <title>Mix DOWN #161</title>
-      <description>Mix DOWN #161 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1655" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1655</guid>
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0200</pubDate>
@@ -1080,7 +1036,6 @@
     </item>
     <item>
       <title>Mix DOWN #160</title>
-      <description>Mix DOWN #160 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1647" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1647</guid>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0200</pubDate>
@@ -1088,7 +1043,6 @@
     </item>
     <item>
       <title>Mix DOWN #159</title>
-      <description>Mix DOWN #159 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1638" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1638</guid>
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0200</pubDate>
@@ -1096,7 +1050,6 @@
     </item>
     <item>
       <title>Mix DOWN #158</title>
-      <description>Mix DOWN #158 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1637" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1637</guid>
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0200</pubDate>
@@ -1104,7 +1057,6 @@
     </item>
     <item>
       <title>Mix DOWN #157</title>
-      <description>Mix DOWN #157 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1622" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1622</guid>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0200</pubDate>
@@ -1112,7 +1064,6 @@
     </item>
     <item>
       <title>Mix DOWN #156</title>
-      <description>Mix DOWN #156 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1602" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1602</guid>
       <pubDate>Wed, 22 Dec 2021 00:00:00 +0200</pubDate>
@@ -1120,7 +1071,6 @@
     </item>
     <item>
       <title>Mix DOWN #155</title>
-      <description>Mix DOWN #155 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1590" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1590</guid>
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0200</pubDate>
@@ -1128,7 +1078,6 @@
     </item>
     <item>
       <title>Mix DOWN #154</title>
-      <description>Mix DOWN #154 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1586" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1586</guid>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0200</pubDate>
@@ -1136,7 +1085,6 @@
     </item>
     <item>
       <title>Mix DOWN #153</title>
-      <description>Mix DOWN #153 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1576" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1576</guid>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0200</pubDate>
@@ -1144,7 +1092,6 @@
     </item>
     <item>
       <title>Mix DOWN #152</title>
-      <description>Mix DOWN #152 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1552" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1552</guid>
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0200</pubDate>
@@ -1152,7 +1099,6 @@
     </item>
     <item>
       <title>Mix DOWN #151</title>
-      <description>Mix DOWN #151 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1527" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1527</guid>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0200</pubDate>
@@ -1160,7 +1106,6 @@
     </item>
     <item>
       <title>Mix DOWN #150</title>
-      <description>Mix DOWN #150 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1525" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1525</guid>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0200</pubDate>
@@ -1168,7 +1113,6 @@
     </item>
     <item>
       <title>Mix DOWN #149</title>
-      <description>Mix DOWN #149 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1513" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1513</guid>
       <pubDate>Fri, 22 Oct 2021 00:00:00 +0200</pubDate>
@@ -1176,7 +1120,6 @@
     </item>
     <item>
       <title>Mix DOWN #148</title>
-      <description>Mix DOWN #148 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1507" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1507</guid>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0200</pubDate>
@@ -1184,7 +1127,6 @@
     </item>
     <item>
       <title>Mix DOWN #147</title>
-      <description>Mix DOWN #147 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1505" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1505</guid>
       <pubDate>Wed, 13 Oct 2021 00:00:00 +0200</pubDate>
@@ -1192,7 +1134,6 @@
     </item>
     <item>
       <title>Mix DOWN #146</title>
-      <description>Mix DOWN #146 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1487" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1487</guid>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
@@ -1200,7 +1141,6 @@
     </item>
     <item>
       <title>Mix DOWN #145</title>
-      <description>Mix DOWN #145 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1480" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1480</guid>
       <pubDate>Sat, 25 Sep 2021 00:00:00 +0200</pubDate>
@@ -1208,7 +1148,6 @@
     </item>
     <item>
       <title>Mix DOWN #144</title>
-      <description>Mix DOWN #144 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1469" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1469</guid>
       <pubDate>Wed, 22 Sep 2021 00:00:00 +0200</pubDate>
@@ -1216,7 +1155,6 @@
     </item>
     <item>
       <title>Mix DOWN #143</title>
-      <description>Mix DOWN #143 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1463" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1463</guid>
       <pubDate>Thu, 09 Sep 2021 00:00:00 +0200</pubDate>
@@ -1224,7 +1162,6 @@
     </item>
     <item>
       <title>Mix DOWN #142</title>
-      <description>Mix DOWN #142 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1456" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1456</guid>
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0200</pubDate>
@@ -1232,7 +1169,6 @@
     </item>
     <item>
       <title>DJ Alesh Konopka - Summer Deep House Alesh Konopka</title>
-      <description>DJ Alesh Konopka - Summer Deep House Alesh Konopka - Special</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1420" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1420</guid>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0200</pubDate>
@@ -1240,15 +1176,13 @@
     </item>
     <item>
       <title>Mix DOWN #141</title>
-      <description>Mix DOWN #141 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1408" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1408</guid>
       <pubDate>Mon, 19 Jul 2021 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>DJ Alesh Konopka - Promotion House Mix  (c.)2021 Alesh Konopka</title>
-      <description>DJ Alesh Konopka - Promotion House Mix  (c.)2021 Alesh Konopka - Special</description>
+      <title>DJ Alesh Konopka - Promotion House Mix  (c.)2021 Alesh Konopka</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1381" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1381</guid>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0200</pubDate>
@@ -1256,7 +1190,6 @@
     </item>
     <item>
       <title>Mix DOWN #140</title>
-      <description>Mix DOWN #140 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1380" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1380</guid>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0200</pubDate>
@@ -1264,7 +1197,6 @@
     </item>
     <item>
       <title>Mix DOWN #139</title>
-      <description>Mix DOWN #139 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1369" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1369</guid>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0200</pubDate>
@@ -1272,7 +1204,6 @@
     </item>
     <item>
       <title>Mix DOWN #138</title>
-      <description>Mix DOWN #138 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1361" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1361</guid>
       <pubDate>Thu, 27 May 2021 00:00:00 +0200</pubDate>
@@ -1280,7 +1211,6 @@
     </item>
     <item>
       <title>Mix DOWN #137</title>
-      <description>Mix DOWN #137 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1351" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1351</guid>
       <pubDate>Sat, 22 May 2021 00:00:00 +0200</pubDate>
@@ -1288,7 +1218,6 @@
     </item>
     <item>
       <title>Mix DOWN #136</title>
-      <description>Mix DOWN #136 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1341" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1341</guid>
       <pubDate>Thu, 13 May 2021 00:00:00 +0200</pubDate>
@@ -1296,7 +1225,6 @@
     </item>
     <item>
       <title>Mix DOWN #135</title>
-      <description>Mix DOWN #135 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1339" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1339</guid>
       <pubDate>Sun, 09 May 2021 00:00:00 +0200</pubDate>
@@ -1304,7 +1232,6 @@
     </item>
     <item>
       <title>Mix DOWN #134</title>
-      <description>Mix DOWN #134 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1329" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1329</guid>
       <pubDate>Sun, 02 May 2021 00:00:00 +0200</pubDate>
@@ -1312,7 +1239,6 @@
     </item>
     <item>
       <title>Mix DOWN #133</title>
-      <description>Mix DOWN #133 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1319" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1319</guid>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0200</pubDate>
@@ -1320,7 +1246,6 @@
     </item>
     <item>
       <title>Mix DOWN #132</title>
-      <description>Mix DOWN #132 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1286" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1286</guid>
       <pubDate>Sun, 18 Apr 2021 00:00:00 +0200</pubDate>
@@ -1328,7 +1253,6 @@
     </item>
     <item>
       <title>Mix DOWN #131</title>
-      <description>Mix DOWN #131 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1285" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1285</guid>
       <pubDate>Sun, 18 Apr 2021 00:00:00 +0200</pubDate>
@@ -1336,7 +1260,6 @@
     </item>
     <item>
       <title>Mix DOWN #130</title>
-      <description>Mix DOWN #130 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1284" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1284</guid>
       <pubDate>Sun, 18 Apr 2021 00:00:00 +0200</pubDate>
@@ -1344,7 +1267,6 @@
     </item>
     <item>
       <title>Mix DOWN #129</title>
-      <description>Mix DOWN #129 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1283" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1283</guid>
       <pubDate>Sun, 18 Apr 2021 00:00:00 +0200</pubDate>
@@ -1352,7 +1274,6 @@
     </item>
     <item>
       <title>Mix DOWN #128</title>
-      <description>Mix DOWN #128 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1282" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1282</guid>
       <pubDate>Sun, 18 Apr 2021 00:00:00 +0200</pubDate>
@@ -1360,7 +1281,6 @@
     </item>
     <item>
       <title>Mix DOWN #127</title>
-      <description>Mix DOWN #127 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1281" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1281</guid>
       <pubDate>Sun, 18 Apr 2021 00:00:00 +0200</pubDate>
@@ -1368,7 +1288,6 @@
     </item>
     <item>
       <title>Mix DOWN #126</title>
-      <description>Mix DOWN #126 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1263" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1263</guid>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0200</pubDate>
@@ -1376,7 +1295,6 @@
     </item>
     <item>
       <title>Mix DOWN #125</title>
-      <description>Mix DOWN #125 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1262" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1262</guid>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0200</pubDate>
@@ -1384,7 +1302,6 @@
     </item>
     <item>
       <title>Mix DOWN #124</title>
-      <description>Mix DOWN #124 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1249" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1249</guid>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0200</pubDate>
@@ -1392,7 +1309,6 @@
     </item>
     <item>
       <title>Mix DOWN #123</title>
-      <description>Mix DOWN #123 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1236" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1236</guid>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0200</pubDate>
@@ -1400,7 +1316,6 @@
     </item>
     <item>
       <title>Mix DOWN #122</title>
-      <description>Mix DOWN #122 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1222" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1222</guid>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0200</pubDate>
@@ -1408,7 +1323,6 @@
     </item>
     <item>
       <title>Mix DOWN #121</title>
-      <description>Mix DOWN #121 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1214" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1214</guid>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0200</pubDate>
@@ -1416,7 +1330,6 @@
     </item>
     <item>
       <title>Mix DOWN #120</title>
-      <description>Mix DOWN #120 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1213" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1213</guid>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0200</pubDate>
@@ -1424,7 +1337,6 @@
     </item>
     <item>
       <title>Mix DOWN #119</title>
-      <description>Mix DOWN #119 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1205" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1205</guid>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0200</pubDate>
@@ -1432,7 +1344,6 @@
     </item>
     <item>
       <title>Mix DOWN #118</title>
-      <description>Mix DOWN #118 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1201" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1201</guid>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0200</pubDate>
@@ -1440,7 +1351,6 @@
     </item>
     <item>
       <title>Mix DOWN #117</title>
-      <description>Mix DOWN #117 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1192" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1192</guid>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0200</pubDate>
@@ -1448,7 +1358,6 @@
     </item>
     <item>
       <title>Mix DOWN #116</title>
-      <description>Mix DOWN #116 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1181" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1181</guid>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0200</pubDate>
@@ -1456,7 +1365,6 @@
     </item>
     <item>
       <title>Mixdown _115 Alesh Konopka</title>
-      <description>Mixdown _115 Alesh Konopka - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1170" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1170</guid>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0200</pubDate>
@@ -1464,7 +1372,6 @@
     </item>
     <item>
       <title>Mix DOWN #114</title>
-      <description>Mix DOWN #114 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1165" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1165</guid>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0200</pubDate>
@@ -1472,7 +1379,6 @@
     </item>
     <item>
       <title>Mix DOWN #113</title>
-      <description>Mix DOWN #113 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1158" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1158</guid>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0200</pubDate>
@@ -1480,7 +1386,6 @@
     </item>
     <item>
       <title>Mix DOWN #112</title>
-      <description>Mix DOWN #112 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1152" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1152</guid>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0200</pubDate>
@@ -1488,7 +1393,6 @@
     </item>
     <item>
       <title>Mix DOWN #111</title>
-      <description>Mix DOWN #111 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1141" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1141</guid>
       <pubDate>Sun, 15 Nov 2020 00:00:00 +0200</pubDate>
@@ -1496,7 +1400,6 @@
     </item>
     <item>
       <title>Mix DOWN #110</title>
-      <description>Mix DOWN #110 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1130" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1130</guid>
       <pubDate>Fri, 06 Nov 2020 00:00:00 +0200</pubDate>
@@ -1504,7 +1407,6 @@
     </item>
     <item>
       <title>Mix DOWN #109</title>
-      <description>Mix DOWN #109 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1127" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1127</guid>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0200</pubDate>
@@ -1512,7 +1414,6 @@
     </item>
     <item>
       <title>Mix DOWN #108</title>
-      <description>Mix DOWN #108 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1114" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1114</guid>
       <pubDate>Sun, 25 Oct 2020 00:00:00 +0200</pubDate>
@@ -1520,7 +1421,6 @@
     </item>
     <item>
       <title>Mix DOWN #107</title>
-      <description>Mix DOWN #107 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1107" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1107</guid>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0200</pubDate>
@@ -1528,7 +1428,6 @@
     </item>
     <item>
       <title>Mix DOWN #106</title>
-      <description>Mix DOWN #106 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1101" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1101</guid>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0200</pubDate>
@@ -1536,7 +1435,6 @@
     </item>
     <item>
       <title>Mix DOWN #105</title>
-      <description>Mix DOWN #105 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1094" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1094</guid>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0200</pubDate>
@@ -1544,7 +1442,6 @@
     </item>
     <item>
       <title>Mix DOWN #104</title>
-      <description>Mix DOWN #104 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1076" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1076</guid>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
@@ -1552,7 +1449,6 @@
     </item>
     <item>
       <title>Mix DOWN #103</title>
-      <description>Mix DOWN #103 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1074" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1074</guid>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0200</pubDate>
@@ -1560,7 +1456,6 @@
     </item>
     <item>
       <title>Mix DOWN #102</title>
-      <description>Mix DOWN #102 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1068" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1068</guid>
       <pubDate>Thu, 17 Sep 2020 00:00:00 +0200</pubDate>
@@ -1568,7 +1463,6 @@
     </item>
     <item>
       <title>Mix DOWN #101</title>
-      <description>Mix DOWN #101 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1060" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1060</guid>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0200</pubDate>
@@ -1576,7 +1470,6 @@
     </item>
     <item>
       <title>Mix DOWN #100</title>
-      <description>Mix DOWN #100 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1030" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1030</guid>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0200</pubDate>
@@ -1584,7 +1477,6 @@
     </item>
     <item>
       <title>Mix DOWN #099</title>
-      <description>Mix DOWN #099 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1014" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1014</guid>
       <pubDate>Sat, 18 Jul 2020 00:00:00 +0200</pubDate>
@@ -1592,7 +1484,6 @@
     </item>
     <item>
       <title>Mix DOWN #098</title>
-      <description>Mix DOWN #098 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1013" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1013</guid>
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0200</pubDate>
@@ -1600,7 +1491,6 @@
     </item>
     <item>
       <title>Mix DOWN #097</title>
-      <description>Mix DOWN #097 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1011" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1011</guid>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0200</pubDate>
@@ -1608,7 +1498,6 @@
     </item>
     <item>
       <title>Mix DOWN #096</title>
-      <description>Mix DOWN #096 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1000" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1000</guid>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0200</pubDate>
@@ -1616,7 +1505,6 @@
     </item>
     <item>
       <title>Mix DOWN #095</title>
-      <description>Mix DOWN #095 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=993" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=993</guid>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0200</pubDate>
@@ -1624,7 +1512,6 @@
     </item>
     <item>
       <title>Mix DOWN #094</title>
-      <description>Mix DOWN #094 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=992" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=992</guid>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0200</pubDate>
@@ -1632,7 +1519,6 @@
     </item>
     <item>
       <title>Mix DOWN #093</title>
-      <description>Mix DOWN #093 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=983" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=983</guid>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0200</pubDate>
@@ -1640,7 +1526,6 @@
     </item>
     <item>
       <title>Mixdown _092 Alesh Konopka</title>
-      <description>Mixdown _092 Alesh Konopka - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=973" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=973</guid>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
@@ -1648,7 +1533,6 @@
     </item>
     <item>
       <title>Mix DOWN #091</title>
-      <description>Mix DOWN #091 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=970" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=970</guid>
       <pubDate>Thu, 28 May 2020 00:00:00 +0200</pubDate>
@@ -1656,7 +1540,6 @@
     </item>
     <item>
       <title>Mix DOWN #090</title>
-      <description>Mix DOWN #090 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=963" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=963</guid>
       <pubDate>Wed, 20 May 2020 00:00:00 +0200</pubDate>
@@ -1664,7 +1547,6 @@
     </item>
     <item>
       <title>Mix DOWN #089</title>
-      <description>Mix DOWN #089 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=957" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=957</guid>
       <pubDate>Fri, 15 May 2020 00:00:00 +0200</pubDate>
@@ -1672,7 +1554,6 @@
     </item>
     <item>
       <title>Mix DOWN #088</title>
-      <description>Mix DOWN #088 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=952" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=952</guid>
       <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
@@ -1680,7 +1561,6 @@
     </item>
     <item>
       <title>Mix DOWN #087</title>
-      <description>Mix DOWN #087 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=939" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=939</guid>
       <pubDate>Wed, 29 Apr 2020 00:00:00 +0200</pubDate>
@@ -1688,7 +1568,6 @@
     </item>
     <item>
       <title>Mix DOWN #085</title>
-      <description>Mix DOWN #085 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=928" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=928</guid>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0200</pubDate>
@@ -1696,7 +1575,6 @@
     </item>
     <item>
       <title>Mix DOWN #084</title>
-      <description>Mix DOWN #084 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=923" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=923</guid>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0200</pubDate>
@@ -1704,7 +1582,6 @@
     </item>
     <item>
       <title>Mix DOWN #083</title>
-      <description>Mix DOWN #083 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=920" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=920</guid>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0200</pubDate>
@@ -1712,7 +1589,6 @@
     </item>
     <item>
       <title>Mix DOWN #082</title>
-      <description>Mix DOWN #082 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=912" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=912</guid>
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0200</pubDate>
@@ -1720,7 +1596,6 @@
     </item>
     <item>
       <title>Mix DOWN #081</title>
-      <description>Mix DOWN #081 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=907" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=907</guid>
       <pubDate>Thu, 19 Mar 2020 00:00:00 +0200</pubDate>
@@ -1728,7 +1603,6 @@
     </item>
     <item>
       <title>Mix DOWN #080</title>
-      <description>Mix DOWN #080 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=904" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=904</guid>
       <pubDate>Thu, 12 Mar 2020 00:00:00 +0200</pubDate>
@@ -1736,7 +1610,6 @@
     </item>
     <item>
       <title>Mix DOWN #079</title>
-      <description>Mix DOWN #079 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=896" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=896</guid>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0200</pubDate>
@@ -1744,7 +1617,6 @@
     </item>
     <item>
       <title>Mix DOWN #078</title>
-      <description>Mix DOWN #078 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=891" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=891</guid>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0200</pubDate>
@@ -1752,7 +1624,6 @@
     </item>
     <item>
       <title>Mix DOWN #077</title>
-      <description>Mix DOWN #077 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=888" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=888</guid>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0200</pubDate>
@@ -1760,7 +1631,6 @@
     </item>
     <item>
       <title>Mix DOWN #076</title>
-      <description>Mix DOWN #076 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=879" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=879</guid>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0200</pubDate>
@@ -1768,7 +1638,6 @@
     </item>
     <item>
       <title>Mix DOWN #075</title>
-      <description>Mix DOWN #075 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=878" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=878</guid>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0200</pubDate>
@@ -1776,7 +1645,6 @@
     </item>
     <item>
       <title>Mix DOWN #074</title>
-      <description>Mix DOWN #074 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=870" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=870</guid>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0200</pubDate>
@@ -1784,7 +1652,6 @@
     </item>
     <item>
       <title>Mix DOWN #073</title>
-      <description>Mix DOWN #073 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=867" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=867</guid>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0200</pubDate>
@@ -1792,7 +1659,6 @@
     </item>
     <item>
       <title>Mix DOWN #072</title>
-      <description>Mix DOWN #072 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=859" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=859</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0200</pubDate>
@@ -1800,7 +1666,6 @@
     </item>
     <item>
       <title>Mix DOWN #071</title>
-      <description>Mix DOWN #071 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=855" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=855</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0200</pubDate>
@@ -1808,7 +1673,6 @@
     </item>
     <item>
       <title>Mix DOWN #070</title>
-      <description>Mix DOWN #070 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=838" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=838</guid>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0200</pubDate>
@@ -1816,7 +1680,6 @@
     </item>
     <item>
       <title>Mix DOWN #069</title>
-      <description>Mix DOWN #069 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=835" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=835</guid>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0200</pubDate>
@@ -1824,7 +1687,6 @@
     </item>
     <item>
       <title>Mix DOWN #068</title>
-      <description>Mix DOWN #068 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=830" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=830</guid>
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0200</pubDate>
@@ -1832,7 +1694,6 @@
     </item>
     <item>
       <title>Mix DOWN #067</title>
-      <description>Mix DOWN #067 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=828" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=828</guid>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0200</pubDate>
@@ -1840,7 +1701,6 @@
     </item>
     <item>
       <title>Mix DOWN #066</title>
-      <description>Mix DOWN #066 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=818" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=818</guid>
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0200</pubDate>
@@ -1848,7 +1708,6 @@
     </item>
     <item>
       <title>Mix DOWN #065</title>
-      <description>Mix DOWN #065 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=812" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=812</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -1856,7 +1715,6 @@
     </item>
     <item>
       <title>Mix DOWN #064</title>
-      <description>Mix DOWN #064 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=811" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=811</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -1864,7 +1722,6 @@
     </item>
     <item>
       <title>Mix DOWN #063</title>
-      <description>Mix DOWN #063 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=810" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=810</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -1872,7 +1729,6 @@
     </item>
     <item>
       <title>Mix DOWN #062</title>
-      <description>Mix DOWN #062 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=809" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=809</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -1880,7 +1736,6 @@
     </item>
     <item>
       <title>Mix DOWN #061</title>
-      <description>Mix DOWN #061 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=808" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=808</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -1888,7 +1743,6 @@
     </item>
     <item>
       <title>Mix DOWN #060</title>
-      <description>Mix DOWN #060 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=807" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=807</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -1896,7 +1750,6 @@
     </item>
     <item>
       <title>Mix DOWN #059</title>
-      <description>Mix DOWN #059 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=806" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=806</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -1904,7 +1757,6 @@
     </item>
     <item>
       <title>Mix DOWN #058</title>
-      <description>Mix DOWN #058 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=805" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=805</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -1912,7 +1764,6 @@
     </item>
     <item>
       <title>Mix DOWN #057</title>
-      <description>Mix DOWN #057 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=804" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=804</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -1920,7 +1771,6 @@
     </item>
     <item>
       <title>Mix DOWN #056</title>
-      <description>Mix DOWN #056 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=803" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=803</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -1928,7 +1778,6 @@
     </item>
     <item>
       <title>Mix DOWN #055</title>
-      <description>Mix DOWN #055 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=802" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=802</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -1936,7 +1785,6 @@
     </item>
     <item>
       <title>Mix DOWN #054</title>
-      <description>Mix DOWN #054 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=801" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=801</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -1944,7 +1792,6 @@
     </item>
     <item>
       <title>Mix DOWN #053</title>
-      <description>Mix DOWN #053 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=800" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=800</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -1952,7 +1799,6 @@
     </item>
     <item>
       <title>Mix DOWN #052</title>
-      <description>Mix DOWN #052 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=799" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=799</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -1960,7 +1806,6 @@
     </item>
     <item>
       <title>Mix DOWN #051</title>
-      <description>Mix DOWN #051 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=798" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=798</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -1968,7 +1813,6 @@
     </item>
     <item>
       <title>Mix DOWN #050</title>
-      <description>Mix DOWN #050 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=797" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=797</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -1976,7 +1820,6 @@
     </item>
     <item>
       <title>Mix DOWN #049</title>
-      <description>Mix DOWN #049 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=796" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=796</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -1984,7 +1827,6 @@
     </item>
     <item>
       <title>Mix DOWN #048</title>
-      <description>Mix DOWN #048 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=795" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=795</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -1992,7 +1834,6 @@
     </item>
     <item>
       <title>Mix DOWN #047</title>
-      <description>Mix DOWN #047 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=794" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=794</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2000,7 +1841,6 @@
     </item>
     <item>
       <title>Mix DOWN #046</title>
-      <description>Mix DOWN #046 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=793" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=793</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2008,7 +1848,6 @@
     </item>
     <item>
       <title>Mix DOWN #045</title>
-      <description>Mix DOWN #045 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=792" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=792</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2016,7 +1855,6 @@
     </item>
     <item>
       <title>Mix DOWN #044</title>
-      <description>Mix DOWN #044 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=791" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=791</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2024,7 +1862,6 @@
     </item>
     <item>
       <title>Mix DOWN #043</title>
-      <description>Mix DOWN #043 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=790" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=790</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2032,7 +1869,6 @@
     </item>
     <item>
       <title>Mix DOWN #042</title>
-      <description>Mix DOWN #042 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=789" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=789</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2040,7 +1876,6 @@
     </item>
     <item>
       <title>Mix DOWN #041</title>
-      <description>Mix DOWN #041 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=788" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=788</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2048,7 +1883,6 @@
     </item>
     <item>
       <title>Mix DOWN #040</title>
-      <description>Mix DOWN #040 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=787" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=787</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2056,7 +1890,6 @@
     </item>
     <item>
       <title>Mix DOWN #039</title>
-      <description>Mix DOWN #039 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=786" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=786</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2064,7 +1897,6 @@
     </item>
     <item>
       <title>Mix DOWN #038</title>
-      <description>Mix DOWN #038 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=785" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=785</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2072,7 +1904,6 @@
     </item>
     <item>
       <title>Mix DOWN #037</title>
-      <description>Mix DOWN #037 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=784" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=784</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2080,7 +1911,6 @@
     </item>
     <item>
       <title>Mix DOWN #036</title>
-      <description>Mix DOWN #036 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=783" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=783</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2088,7 +1918,6 @@
     </item>
     <item>
       <title>Mix DOWN #035</title>
-      <description>Mix DOWN #035 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=782" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=782</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2096,7 +1925,6 @@
     </item>
     <item>
       <title>Mix DOWN #034</title>
-      <description>Mix DOWN #034 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=781" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=781</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2104,7 +1932,6 @@
     </item>
     <item>
       <title>Mix DOWN #033</title>
-      <description>Mix DOWN #033 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=780" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=780</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2112,7 +1939,6 @@
     </item>
     <item>
       <title>Mix DOWN #032</title>
-      <description>Mix DOWN #032 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=779" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=779</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2120,7 +1946,6 @@
     </item>
     <item>
       <title>Mix DOWN #031</title>
-      <description>Mix DOWN #031 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=778" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=778</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2128,7 +1953,6 @@
     </item>
     <item>
       <title>Mix DOWN #030</title>
-      <description>Mix DOWN #030 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=777" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=777</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2136,7 +1960,6 @@
     </item>
     <item>
       <title>Mix DOWN #029</title>
-      <description>Mix DOWN #029 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=776" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=776</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2144,7 +1967,6 @@
     </item>
     <item>
       <title>Mix DOWN #028</title>
-      <description>Mix DOWN #028 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=775" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=775</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2152,7 +1974,6 @@
     </item>
     <item>
       <title>Mix DOWN #027</title>
-      <description>Mix DOWN #027 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=774" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=774</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2160,7 +1981,6 @@
     </item>
     <item>
       <title>Mix DOWN #026</title>
-      <description>Mix DOWN #026 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=772" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=772</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2168,7 +1988,6 @@
     </item>
     <item>
       <title>Mix DOWN #025</title>
-      <description>Mix DOWN #025 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=771" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=771</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2176,7 +1995,6 @@
     </item>
     <item>
       <title>Mix DOWN #024</title>
-      <description>Mix DOWN #024 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=770" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=770</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2184,7 +2002,6 @@
     </item>
     <item>
       <title>Mix DOWN #023</title>
-      <description>Mix DOWN #023 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=769" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=769</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2192,7 +2009,6 @@
     </item>
     <item>
       <title>Mix DOWN #022</title>
-      <description>Mix DOWN #022 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=768" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=768</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2200,7 +2016,6 @@
     </item>
     <item>
       <title>Mix DOWN #021</title>
-      <description>Mix DOWN #021 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=767" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=767</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2208,7 +2023,6 @@
     </item>
     <item>
       <title>Mix DOWN #020</title>
-      <description>Mix DOWN #020 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=766" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=766</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2216,7 +2030,6 @@
     </item>
     <item>
       <title>Mix DOWN #019</title>
-      <description>Mix DOWN #019 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=765" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=765</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2224,7 +2037,6 @@
     </item>
     <item>
       <title>Mix DOWN #018</title>
-      <description>Mix DOWN #018 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=764" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=764</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2232,7 +2044,6 @@
     </item>
     <item>
       <title>Mix DOWN #017</title>
-      <description>Mix DOWN #017 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=763" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=763</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2240,7 +2051,6 @@
     </item>
     <item>
       <title>Mix DOWN #016</title>
-      <description>Mix DOWN #016 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=762" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=762</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2248,7 +2058,6 @@
     </item>
     <item>
       <title>Mix DOWN #015</title>
-      <description>Mix DOWN #015 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=761" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=761</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2256,7 +2065,6 @@
     </item>
     <item>
       <title>Mix DOWN #014</title>
-      <description>Mix DOWN #014 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=760" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=760</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2264,7 +2072,6 @@
     </item>
     <item>
       <title>Mix DOWN #013</title>
-      <description>Mix DOWN #013 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=759" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=759</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2272,7 +2079,6 @@
     </item>
     <item>
       <title>Mix DOWN #012</title>
-      <description>Mix DOWN #012 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=758" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=758</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2280,7 +2086,6 @@
     </item>
     <item>
       <title>Mix DOWN #011</title>
-      <description>Mix DOWN #011 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=757" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=757</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2288,7 +2093,6 @@
     </item>
     <item>
       <title>Mix DOWN #010</title>
-      <description>Mix DOWN #010 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=756" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=756</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2296,7 +2100,6 @@
     </item>
     <item>
       <title>Mix DOWN #009</title>
-      <description>Mix DOWN #009 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=755" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=755</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2304,7 +2107,6 @@
     </item>
     <item>
       <title>Mix DOWN #008</title>
-      <description>Mix DOWN #008 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=754" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=754</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2312,7 +2114,6 @@
     </item>
     <item>
       <title>Mix DOWN #007</title>
-      <description>Mix DOWN #007 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=753" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=753</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2320,7 +2121,6 @@
     </item>
     <item>
       <title>Mix DOWN #006</title>
-      <description>Mix DOWN #006 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=752" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=752</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2328,7 +2128,6 @@
     </item>
     <item>
       <title>Mix DOWN #005</title>
-      <description>Mix DOWN #005 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=751" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=751</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2336,7 +2135,6 @@
     </item>
     <item>
       <title>Mix DOWN #004</title>
-      <description>Mix DOWN #004 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=750" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=750</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2344,7 +2142,6 @@
     </item>
     <item>
       <title>Mix DOWN #003</title>
-      <description>Mix DOWN #003 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=749" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=749</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2352,7 +2149,6 @@
     </item>
     <item>
       <title>Mix DOWN #002</title>
-      <description>Mix DOWN #002 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=748" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=748</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
@@ -2360,7 +2156,6 @@
     </item>
     <item>
       <title>Mix DOWN #001</title>
-      <description>Mix DOWN #001 - Hudební</description>
       <enclosure url="https://radiocolor.cz/download.php?soubor=747" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=747</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>

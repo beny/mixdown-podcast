@@ -1,0 +1,52 @@
+
+# macOS temporary files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python packaging and build artifacts
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Python logs and test artifacts
+*.log
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+.pybuilder/
+
+# Jupyter and IPython
+.ipynb_checkpoints
+.profile
+.python-version
+
+# Editor and IDE
+.vscode/
+.idea/
+*.swp
+*.swo
