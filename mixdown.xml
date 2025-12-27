@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<rss version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Mix DOWN</title>
     <link>https://radiocolor.cz/showpage.php?name=mixdown</link>
@@ -7,6 +7,7 @@
     <language>cs</language>
     <generator>Python script</generator>
     <author>Alesh Konopka</author>
+    <itunes:author>Alesh Konopka</itunes:author>
     <image>
       <url>https://radiocolor.cz/porady/mixdown.jpg</url>
       <title>Mix DOWN</title>
@@ -1476,49 +1477,49 @@
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #99</title>
+      <title>Mix DOWN #099</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1014" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1014</guid>
       <pubDate>Sat, 18 Jul 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #98</title>
+      <title>Mix DOWN #098</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1013" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1013</guid>
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #97</title>
+      <title>Mix DOWN #097</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1011" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1011</guid>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #96</title>
+      <title>Mix DOWN #096</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=1000" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=1000</guid>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #95</title>
+      <title>Mix DOWN #095</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=993" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=993</guid>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #94</title>
+      <title>Mix DOWN #094</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=992" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=992</guid>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #93</title>
+      <title>Mix DOWN #093</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=983" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=983</guid>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0200</pubDate>
@@ -1532,630 +1533,630 @@
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #91</title>
+      <title>Mix DOWN #091</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=970" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=970</guid>
       <pubDate>Thu, 28 May 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #90</title>
+      <title>Mix DOWN #090</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=963" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=963</guid>
       <pubDate>Wed, 20 May 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #89</title>
+      <title>Mix DOWN #089</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=957" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=957</guid>
       <pubDate>Fri, 15 May 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #88</title>
+      <title>Mix DOWN #088</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=952" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=952</guid>
       <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #87</title>
+      <title>Mix DOWN #087</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=939" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=939</guid>
       <pubDate>Wed, 29 Apr 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #85</title>
+      <title>Mix DOWN #085</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=928" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=928</guid>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #84</title>
+      <title>Mix DOWN #084</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=923" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=923</guid>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #83</title>
+      <title>Mix DOWN #083</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=920" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=920</guid>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #82</title>
+      <title>Mix DOWN #082</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=912" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=912</guid>
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #81</title>
+      <title>Mix DOWN #081</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=907" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=907</guid>
       <pubDate>Thu, 19 Mar 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #80</title>
+      <title>Mix DOWN #080</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=904" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=904</guid>
       <pubDate>Thu, 12 Mar 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #79</title>
+      <title>Mix DOWN #079</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=896" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=896</guid>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #78</title>
+      <title>Mix DOWN #078</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=891" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=891</guid>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #77</title>
+      <title>Mix DOWN #077</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=888" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=888</guid>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #76</title>
+      <title>Mix DOWN #076</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=879" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=879</guid>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #75</title>
+      <title>Mix DOWN #075</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=878" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=878</guid>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #74</title>
+      <title>Mix DOWN #074</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=870" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=870</guid>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #73</title>
+      <title>Mix DOWN #073</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=867" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=867</guid>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #72</title>
+      <title>Mix DOWN #072</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=859" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=859</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #71</title>
+      <title>Mix DOWN #071</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=855" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=855</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #70</title>
+      <title>Mix DOWN #070</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=838" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=838</guid>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #69</title>
+      <title>Mix DOWN #069</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=835" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=835</guid>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #68</title>
+      <title>Mix DOWN #068</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=830" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=830</guid>
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #67</title>
+      <title>Mix DOWN #067</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=828" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=828</guid>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #66</title>
+      <title>Mix DOWN #066</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=818" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=818</guid>
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #65</title>
+      <title>Mix DOWN #065</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=812" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=812</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #64</title>
+      <title>Mix DOWN #064</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=811" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=811</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #63</title>
+      <title>Mix DOWN #063</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=810" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=810</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #62</title>
+      <title>Mix DOWN #062</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=809" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=809</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #61</title>
+      <title>Mix DOWN #061</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=808" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=808</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #60</title>
+      <title>Mix DOWN #060</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=807" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=807</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #59</title>
+      <title>Mix DOWN #059</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=806" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=806</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #58</title>
+      <title>Mix DOWN #058</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=805" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=805</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #57</title>
+      <title>Mix DOWN #057</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=804" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=804</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #56</title>
+      <title>Mix DOWN #056</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=803" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=803</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #55</title>
+      <title>Mix DOWN #055</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=802" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=802</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #54</title>
+      <title>Mix DOWN #054</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=801" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=801</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #53</title>
+      <title>Mix DOWN #053</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=800" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=800</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #52</title>
+      <title>Mix DOWN #052</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=799" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=799</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #51</title>
+      <title>Mix DOWN #051</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=798" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=798</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #50</title>
+      <title>Mix DOWN #050</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=797" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=797</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #49</title>
+      <title>Mix DOWN #049</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=796" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=796</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #48</title>
+      <title>Mix DOWN #048</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=795" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=795</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #47</title>
+      <title>Mix DOWN #047</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=794" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=794</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #46</title>
+      <title>Mix DOWN #046</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=793" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=793</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #45</title>
+      <title>Mix DOWN #045</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=792" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=792</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #44</title>
+      <title>Mix DOWN #044</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=791" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=791</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #43</title>
+      <title>Mix DOWN #043</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=790" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=790</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #42</title>
+      <title>Mix DOWN #042</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=789" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=789</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #41</title>
+      <title>Mix DOWN #041</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=788" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=788</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #40</title>
+      <title>Mix DOWN #040</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=787" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=787</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #39</title>
+      <title>Mix DOWN #039</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=786" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=786</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #38</title>
+      <title>Mix DOWN #038</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=785" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=785</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #37</title>
+      <title>Mix DOWN #037</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=784" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=784</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #36</title>
+      <title>Mix DOWN #036</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=783" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=783</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #35</title>
+      <title>Mix DOWN #035</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=782" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=782</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #34</title>
+      <title>Mix DOWN #034</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=781" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=781</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #33</title>
+      <title>Mix DOWN #033</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=780" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=780</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #32</title>
+      <title>Mix DOWN #032</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=779" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=779</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #31</title>
+      <title>Mix DOWN #031</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=778" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=778</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #30</title>
+      <title>Mix DOWN #030</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=777" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=777</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #29</title>
+      <title>Mix DOWN #029</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=776" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=776</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #28</title>
+      <title>Mix DOWN #028</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=775" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=775</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #27</title>
+      <title>Mix DOWN #027</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=774" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=774</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #26</title>
+      <title>Mix DOWN #026</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=772" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=772</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #25</title>
+      <title>Mix DOWN #025</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=771" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=771</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #24</title>
+      <title>Mix DOWN #024</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=770" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=770</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #23</title>
+      <title>Mix DOWN #023</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=769" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=769</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #22</title>
+      <title>Mix DOWN #022</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=768" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=768</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #21</title>
+      <title>Mix DOWN #021</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=767" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=767</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #20</title>
+      <title>Mix DOWN #020</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=766" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=766</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #19</title>
+      <title>Mix DOWN #019</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=765" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=765</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #18</title>
+      <title>Mix DOWN #018</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=764" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=764</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #17</title>
+      <title>Mix DOWN #017</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=763" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=763</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #16</title>
+      <title>Mix DOWN #016</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=762" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=762</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #15</title>
+      <title>Mix DOWN #015</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=761" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=761</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #14</title>
+      <title>Mix DOWN #014</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=760" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=760</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #13</title>
+      <title>Mix DOWN #013</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=759" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=759</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #12</title>
+      <title>Mix DOWN #012</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=758" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=758</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #11</title>
+      <title>Mix DOWN #011</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=757" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=757</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #10</title>
+      <title>Mix DOWN #010</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=756" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=756</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #9</title>
+      <title>Mix DOWN #009</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=755" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=755</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #8</title>
+      <title>Mix DOWN #008</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=754" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=754</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #7</title>
+      <title>Mix DOWN #007</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=753" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=753</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #6</title>
+      <title>Mix DOWN #006</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=752" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=752</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #5</title>
+      <title>Mix DOWN #005</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=751" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=751</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #4</title>
+      <title>Mix DOWN #004</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=750" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=750</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #3</title>
+      <title>Mix DOWN #003</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=749" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=749</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #2</title>
+      <title>Mix DOWN #002</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=748" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=748</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
     </item>
     <item>
-      <title>Mix DOWN #1</title>
+      <title>Mix DOWN #001</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=747" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=747</guid>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>

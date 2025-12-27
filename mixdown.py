@@ -6,6 +6,8 @@ import re
 from xml.dom import minidom
 import requests
 
+ET.register_namespace('itunes', 'http://www.itunes.com/dtds/podcast-1.0.dtd')
+
 SOURCE_URL = "https://radiocolor.cz/download.php?sekce=18"
 DOWNLOADED_HTML = "mixdown.html"  # latest downloaded copy
 HTML_FILE = "color_music_radio.html"  # legacy fallback/local cache
@@ -41,7 +43,10 @@ html_content = fetch_source_html()
 soup = BeautifulSoup(html_content, "html.parser")
 
 # RSS struktura
-rss = ET.Element("rss", version="2.0")
+rss = ET.Element("rss", {
+    "version": "2.0",
+    "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+})
 channel = ET.SubElement(rss, "channel")
 
 ET.SubElement(channel, "title").text = "Mix DOWN"
@@ -50,6 +55,7 @@ ET.SubElement(channel, "description").text = "Hodina muziky od 60. let až po so
 ET.SubElement(channel, "language").text = "cs"
 ET.SubElement(channel, "generator").text = "Python script"
 ET.SubElement(channel, "author").text = "Alesh Konopka"
+ET.SubElement(channel, "itunes:author").text = "Alesh Konopka"
 
 # Ikona
 image = ET.SubElement(channel, "image")
@@ -79,8 +85,9 @@ else:
         file_link = "https://radiocolor.cz/" + a_tags[1]['href']
 
         match = re.search(r"MixDown[_ ]?(\d+)", raw_title, re.IGNORECASE)
-        episode_num = int(match.group(1)) if match else None
-        episode_title = f"Mix DOWN #{episode_num}" if episode_num is not None else raw_title
+        episode_num_str = match.group(1) if match else None
+        episode_num = int(episode_num_str) if episode_num_str is not None else None
+        episode_title = f"Mix DOWN #{episode_num_str}" if episode_num_str is not None else raw_title
 
         try:
             date_obj = datetime.strptime(date_text, "%d.%m.%Y")
@@ -93,6 +100,7 @@ else:
             "date_obj": date_obj,
             "date_text": date_text,
             "episode_num": episode_num,
+            "episode_num_str": episode_num_str,
         })
 
     # řazení: novější datum první, a při shodném datu vyšší číslo epizody první
