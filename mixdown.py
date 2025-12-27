@@ -63,6 +63,8 @@ rows = soup.find_all("tr", class_="z2")
 if not rows:
     print("⚠️  Žádné epizody nebyly nalezeny.")
 else:
+    episodes = []
+
     for idx, row in enumerate(rows, start=1):
         cols = row.find_all("td")
         if len(cols) < 6:
@@ -77,22 +79,32 @@ else:
         file_link = "https://radiocolor.cz/" + a_tags[1]['href']
 
         match = re.search(r"MixDown[_ ]?(\d+)", raw_title, re.IGNORECASE)
-        episode_title = f"Mix DOWN #{match.group(1)}" if match else raw_title
+        episode_num = int(match.group(1)) if match else None
+        episode_title = f"Mix DOWN #{episode_num}" if episode_num is not None else raw_title
 
         try:
-            pub_date = datetime.strptime(date_text, "%d.%m.%Y").strftime("%a, %d %b %Y 00:00:00 +0200")
+            date_obj = datetime.strptime(date_text, "%d.%m.%Y")
         except ValueError:
-            pub_date = "Thu, 01 Jan 1970 00:00:00 +0000"
+            date_obj = datetime(1970, 1, 1)
 
-        print(f"\nEpizoda {idx}")
-        print(f"  Název   : {episode_title}")
-        print(f"  Datum   : {date_text}")
-        print(f"  Odkaz   : {file_link}")
+        episodes.append({
+            "title": episode_title,
+            "file_link": file_link,
+            "date_obj": date_obj,
+            "date_text": date_text,
+            "episode_num": episode_num,
+        })
 
+    # řazení: novější datum první, a při shodném datu vyšší číslo epizody první
+    episodes.sort(key=lambda e: (e["date_obj"], e["episode_num"] if e["episode_num"] is not None else -1), reverse=True)
+
+    # generování RSS až po seřazení
+    for e in episodes:
+        pub_date = e["date_obj"].strftime("%a, %d %b %Y 00:00:00 +0200")
         item = ET.SubElement(channel, "item")
-        ET.SubElement(item, "title").text = episode_title
-        ET.SubElement(item, "enclosure", url=file_link, type="audio/mpeg")
-        ET.SubElement(item, "guid").text = file_link
+        ET.SubElement(item, "title").text = e["title"]
+        ET.SubElement(item, "enclosure", url=e["file_link"], type="audio/mpeg")
+        ET.SubElement(item, "guid").text = e["file_link"]
         ET.SubElement(item, "pubDate").text = pub_date
         ET.SubElement(item, "author").text = "Alesh Konopka"
 
