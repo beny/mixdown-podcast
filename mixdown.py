@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timedelta
 import xml.etree.ElementTree as ET
 import html
 import re
@@ -12,6 +12,19 @@ SOURCE_URL = "https://radiocolor.cz/download.php?sekce=18"
 DOWNLOADED_HTML = "mixdown.html"  # latest downloaded copy
 HTML_FILE = "color_music_radio.html"  # legacy fallback/local cache
 OUTPUT_XML = "mixdown.xml"
+
+def compute_pub_date(current_date_obj, next_date_obj, episode_num):
+    """
+    Vrátí tuple (dt_with_time, used_offset) kde dt_with_time je datetime pro pubDate.
+    Offset (čas v rámci dne) se použije pouze pokud je current_date_obj ve stejném dni jako next_date_obj
+    a zároveň je k dispozici kladné číslo epizody.
+    """
+    base_dt = current_date_obj.replace(hour=0, minute=0, second=0, microsecond=0)
+    if next_date_obj is not None and current_date_obj.date() == next_date_obj.date() and episode_num is not None and episode_num >= 0:
+        offset_seconds = episode_num % 86400
+        return base_dt + timedelta(seconds=offset_seconds), True
+    else:
+        return base_dt, False
 
 def fetch_source_html() -> str:
     """
@@ -107,8 +120,11 @@ else:
     episodes.sort(key=lambda e: (e["date_obj"], e["episode_num"] if e["episode_num"] is not None else -1), reverse=True)
 
     # generování RSS až po seřazení
-    for e in episodes:
-        pub_date = e["date_obj"].strftime("%a, %d %b %Y 00:00:00 +0200")
+    for i, e in enumerate(episodes):
+        next_date_obj = episodes[i+1]["date_obj"] if i + 1 < len(episodes) else None
+        dt_with_time, used_offset = compute_pub_date(e["date_obj"], next_date_obj, e["episode_num"])
+        pub_date = dt_with_time.strftime("%a, %d %b %Y %H:%M:%S +0200")
+
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = e["title"]
         ET.SubElement(item, "enclosure", url=e["file_link"], type="audio/mpeg")
