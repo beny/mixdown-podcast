@@ -14,6 +14,14 @@
       <link>https://radiocolor.cz/showpage.php?name=mixdown</link>
     </image>
     <item>
+      <title>Mix DOWN #305</title>
+      <enclosure url="https://radiocolor.cz/download.php?soubor=2750" type="audio/mpeg"/>
+      <guid>https://radiocolor.cz/download.php?soubor=2750</guid>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0200</pubDate>
+      <author>Alesh Konopka</author>
+      <itunes:episode>305</itunes:episode>
+    </item>
+    <item>
       <title>Mix DOWN #304</title>
       <enclosure url="https://radiocolor.cz/download.php?soubor=2740" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2740</guid>
