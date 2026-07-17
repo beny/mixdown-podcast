@@ -15,7 +15,7 @@
     </image>
     <item>
       <title>Mix DOWN #312</title>
-      <enclosure url="https://raw.githubusercontent.com/beny/mixdown-podcast/ondra/episode-tracklist-descriptions/audio/312.mp3" type="audio/mpeg"/>
+      <enclosure url="https://radiocolor.cz/download.php?soubor=2844" type="audio/mpeg"/>
       <guid>https://radiocolor.cz/download.php?soubor=2844</guid>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
@@ -62,6 +62,36 @@
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
       <itunes:episode>311</itunes:episode>
+      <description>Tracklist:
+01:05 Yame &amp; Denis Zephyr – Picante Estetique
+07:32 M5K – Marcy Ave Parlay
+07:45 YAME &amp; Indieveed – Doodle Doo
+13:21 M5K – Marcy Ave Parlay
+13:55 Starky 47 – Flaming Phoenix (Extended Mix)
+20:21 Yame – Alright
+27:11 gizA djs – Dafty Disco Ball (YAME Remix)
+37:56 Dj Piligrim – Дед на стиле
+38:53 Yame &amp; Arsanit – I Love You Fantomas
+43:26 Ali Bakgor – In a Dream (Extended)
+46:05 Yame &amp; Systema – Not Minimal
+47:13 Purple Disco Machine – Playbox
+51:53 Yame – As I Ran</description>
+      <psc:chapters version="1.2">
+        <psc:chapter start="00:01:05" title="Yame &amp; Denis Zephyr – Picante Estetique"/>
+        <psc:chapter start="00:07:32" title="M5K – Marcy Ave Parlay"/>
+        <psc:chapter start="00:07:45" title="YAME &amp; Indieveed – Doodle Doo"/>
+        <psc:chapter start="00:13:21" title="M5K – Marcy Ave Parlay"/>
+        <psc:chapter start="00:13:55" title="Starky 47 – Flaming Phoenix (Extended Mix)"/>
+        <psc:chapter start="00:20:21" title="Yame – Alright"/>
+        <psc:chapter start="00:27:11" title="gizA djs – Dafty Disco Ball (YAME Remix)"/>
+        <psc:chapter start="00:37:56" title="Dj Piligrim – Дед на стиле"/>
+        <psc:chapter start="00:38:53" title="Yame &amp; Arsanit – I Love You Fantomas"/>
+        <psc:chapter start="00:43:26" title="Ali Bakgor – In a Dream (Extended)"/>
+        <psc:chapter start="00:46:05" title="Yame &amp; Systema – Not Minimal"/>
+        <psc:chapter start="00:47:13" title="Purple Disco Machine – Playbox"/>
+        <psc:chapter start="00:51:53" title="Yame – As I Ran"/>
+      </psc:chapters>
+      <podcast:chapters url="https://raw.githubusercontent.com/beny/mixdown-podcast/main/chapters/311.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Mix DOWN #310</title>
