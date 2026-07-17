@@ -15,6 +15,7 @@ DOWNLOADED_HTML = "mixdown.html"  # latest downloaded copy
 HTML_FILE = "color_music_radio.html"  # legacy fallback/local cache
 OUTPUT_XML = "mixdown.xml"
 TRACKLIST_DIR = Path("tracklists")  # výstupy enrich.py (Shazam)
+TRANSCRIPT_DIR = Path("transcripts")  # výstupy enrich.py (Whisper přepis úvodu)
 CHAPTERS_DIR = Path("chapters")  # JSON kapitoly pro <podcast:chapters>
 CHAPTERS_URL_BASE = "https://raw.githubusercontent.com/beny/mixdown-podcast/main/chapters"
 
@@ -28,6 +29,17 @@ def load_tracklist(episode_num):
         return None
     tracklist = json.loads(path.read_text(encoding="utf-8"))
     return tracklist or None
+
+
+def load_transcript(episode_num):
+    """Vrátí uložený přepis úvodu epizody, nebo None když (zatím) neexistuje."""
+    if episode_num is None:
+        return None
+    path = TRANSCRIPT_DIR / f"{episode_num}.txt"
+    if not path.exists():
+        return None
+    text = path.read_text(encoding="utf-8").strip()
+    return text or None
 
 
 def chapter_time(seconds):
@@ -158,9 +170,13 @@ else:
             ET.SubElement(item, "itunes:episode").text = str(e["episode_num"])
 
         tracklist = load_tracklist(e["episode_num"])
+        transcript = load_transcript(e["episode_num"])
         if tracklist:
             lines = [f"{t['timestamp']} {t['artist']} – {t['title']}" for t in tracklist]
-            ET.SubElement(item, "description").text = "Tracklist:\n" + "\n".join(lines)
+            description = "Tracklist:\n" + "\n".join(lines)
+            if transcript:
+                description = transcript + "\n\n" + description
+            ET.SubElement(item, "description").text = description
 
             # inline kapitoly (Podlove Simple Chapters)
             chapters = ET.SubElement(item, "psc:chapters", {"version": "1.2"})

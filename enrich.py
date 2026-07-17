@@ -1,9 +1,10 @@
-"""Doplní tracklisty k epizodám z mixdown.xml.
+"""Doplní tracklisty a přepis úvodu k epizodám z mixdown.xml.
 
-Projde feed, najde epizody bez uloženého tracklistu v tracklists/,
-stáhne jejich MP3, rozpozná skladby přes Shazam (tracklist.py) a výsledek
-uloží jako tracklists/<číslo epizody>.json. Je idempotentní — už rozpoznané
-epizody přeskakuje, takže se dá kdykoli přerušit a spustit znovu.
+Projde feed, najde epizody bez uloženého tracklistu nebo přepisu, stáhne
+jejich MP3, rozpozná skladby přes Shazam (tracklist.py) a přepíše mluvený
+úvod přes Whisper (transcript.py). Výsledky uloží jako
+tracklists/<číslo>.json a transcripts/<číslo>.txt. Je idempotentní — už
+hotové epizody přeskakuje, takže se dá kdykoli přerušit a spustit znovu.
 
 Použití:
     python enrich.py               # nejnovější 3 chybějící epizody
@@ -22,10 +23,12 @@ from pathlib import Path
 import requests
 
 from tracklist import build_tracklist
+from transcript import transcribe_intro
 
 ITUNES_NS = "{http://www.itunes.com/dtds/podcast-1.0.dtd}"
 XML_FILE = "mixdown.xml"
 TRACKLIST_DIR = Path("tracklists")
+TRANSCRIPT_DIR = Path("transcripts")
 EPISODE_PAUSE = 30  # pauza mezi epizodami, ať Shazam nedostává souvislou palbu
 
 
@@ -54,7 +57,8 @@ def download(url: str, dest: Path) -> None:
 
 
 async def process_episode(episode: dict) -> bool:
-    out_path = TRACKLIST_DIR / f"{episode['num']}.json"
+    tracklist_path = TRACKLIST_DIR / f"{episode['num']}.json"
+    transcript_path = TRANSCRIPT_DIR / f"{episode['num']}.txt"
     print(f"\n=== {episode['title']} ===", file=sys.stderr)
     with tempfile.TemporaryDirectory() as tmp:
         mp3 = Path(tmp) / "episode.mp3"
@@ -63,22 +67,45 @@ async def process_episode(episode: dict) -> bool:
         except Exception as exc:
             print(f"stažení selhalo: {exc}", file=sys.stderr)
             return False
-        tracklist = await build_tracklist(str(mp3))
-    if not tracklist:
-        # nic nerozpoznáno (výpadek sítě / rate limit?) — neukládat,
-        # ať se epizoda příště zkusí znovu
-        print("prázdný výsledek, přeskakuji uložení", file=sys.stderr)
-        return False
-    out_path.write_text(
-        json.dumps(tracklist, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"uloženo: {out_path} ({len(tracklist)} skladeb)", file=sys.stderr)
-    return True
+
+        ok = True
+        if not tracklist_path.exists():
+            tracklist = await build_tracklist(str(mp3))
+            if tracklist:
+                tracklist_path.write_text(
+                    json.dumps(tracklist, ensure_ascii=False, indent=2) + "\n",
+                    encoding="utf-8")
+                print(f"uloženo: {tracklist_path} ({len(tracklist)} skladeb)",
+                      file=sys.stderr)
+            else:
+                # nic nerozpoznáno (výpadek sítě / rate limit?) — neukládat,
+                # ať se epizoda příště zkusí znovu
+                print("tracklist: prázdný výsledek, přeskakuji uložení",
+                      file=sys.stderr)
+                ok = False
+
+        if not transcript_path.exists():
+            try:
+                text = transcribe_intro(str(mp3))
+            except Exception as exc:
+                print(f"přepis selhal: {exc}", file=sys.stderr)
+                text = None
+            if text:
+                transcript_path.write_text(text + "\n", encoding="utf-8")
+                print(f"uloženo: {transcript_path}", file=sys.stderr)
+            else:
+                print("přepis: prázdný výsledek, přeskakuji uložení", file=sys.stderr)
+                ok = False
+
+    return ok
 
 
 async def run(limit: int | None) -> None:
     TRACKLIST_DIR.mkdir(exist_ok=True)
+    TRANSCRIPT_DIR.mkdir(exist_ok=True)
     missing = [e for e in episodes_from_feed(XML_FILE)
-               if not (TRACKLIST_DIR / f"{e['num']}.json").exists()]
+               if not (TRACKLIST_DIR / f"{e['num']}.json").exists()
+               or not (TRANSCRIPT_DIR / f"{e['num']}.txt").exists()]
     if limit is not None:
         missing = missing[:limit]
     print(f"Epizod k rozpoznání: {len(missing)}", file=sys.stderr)
