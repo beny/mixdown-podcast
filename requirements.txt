@@ -1,2 +1,5 @@
 requests>=2.31.0
 beautifulsoup4>=4.12
+shazamio>=0.8
+aiohttp>=3.9
+audioop-lts; python_version >= "3.13"

@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>Mix DOWN</title>
     <link>https://radiocolor.cz/showpage.php?name=mixdown</link>
@@ -20,6 +20,40 @@
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0200</pubDate>
       <author>Alesh Konopka</author>
       <itunes:episode>312</itunes:episode>
+      <description>Tracklist:
+00:07 Pardon Moi – Power to the People (Damon Jee Remix)
+05:24 Bulat &amp; Dyshat – Bilbilim (The Organism Remix)
+10:41 Made In TLV – Cats &amp; Hats
+16:21 Chaim – Pow Pow (The Organism Remix)
+19:56 Jean Pierre Fässler – Nature's Lullaby
+22:07 Mila Journée – No Es No
+27:04 Far&amp;High – Sans Vetements
+30:01 Alex Kennon – Blinding Lights (Joris Voorn Remix)
+35:55 Franz Matthews – As I Am (YAME Remix)
+38:17 Criss Source – Hugs n'Kisses
+40:53 Morgi &amp; Ben Aim – Back In 1995
+46:37 Yamagucci &amp; OMRI. – Selector
+50:07 Demarkus Lewis – Body Tonic
+51:57 Noizu – Will We Ever Change?
+53:39 Max Dean &amp; Luke Dean – Gets Like That (Jamie Jones Remix)</description>
+      <psc:chapters version="1.2">
+        <psc:chapter start="00:00:07" title="Pardon Moi – Power to the People (Damon Jee Remix)"/>
+        <psc:chapter start="00:05:25" title="Bulat &amp; Dyshat – Bilbilim (The Organism Remix)"/>
+        <psc:chapter start="00:10:42" title="Made In TLV – Cats &amp; Hats"/>
+        <psc:chapter start="00:16:22" title="Chaim – Pow Pow (The Organism Remix)"/>
+        <psc:chapter start="00:19:56" title="Jean Pierre Fässler – Nature's Lullaby"/>
+        <psc:chapter start="00:22:07" title="Mila Journée – No Es No"/>
+        <psc:chapter start="00:27:05" title="Far&amp;High – Sans Vetements"/>
+        <psc:chapter start="00:30:01" title="Alex Kennon – Blinding Lights (Joris Voorn Remix)"/>
+        <psc:chapter start="00:35:56" title="Franz Matthews – As I Am (YAME Remix)"/>
+        <psc:chapter start="00:38:18" title="Criss Source – Hugs n'Kisses"/>
+        <psc:chapter start="00:40:53" title="Morgi &amp; Ben Aim – Back In 1995"/>
+        <psc:chapter start="00:46:38" title="Yamagucci &amp; OMRI. – Selector"/>
+        <psc:chapter start="00:50:07" title="Demarkus Lewis – Body Tonic"/>
+        <psc:chapter start="00:51:57" title="Noizu – Will We Ever Change?"/>
+        <psc:chapter start="00:53:40" title="Max Dean &amp; Luke Dean – Gets Like That (Jamie Jones Remix)"/>
+      </psc:chapters>
+      <podcast:chapters url="https://raw.githubusercontent.com/beny/mixdown-podcast/main/chapters/312.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Mix DOWN #311</title>

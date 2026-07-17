@@ -1,5 +1,7 @@
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
+from pathlib import Path
+import json
 import xml.etree.ElementTree as ET
 import html
 import re
@@ -12,6 +14,25 @@ SOURCE_URL = "https://radiocolor.cz/download.php?sekce=18"
 DOWNLOADED_HTML = "mixdown.html"  # latest downloaded copy
 HTML_FILE = "color_music_radio.html"  # legacy fallback/local cache
 OUTPUT_XML = "mixdown.xml"
+TRACKLIST_DIR = Path("tracklists")  # výstupy enrich.py (Shazam)
+CHAPTERS_DIR = Path("chapters")  # JSON kapitoly pro <podcast:chapters>
+CHAPTERS_URL_BASE = "https://raw.githubusercontent.com/beny/mixdown-podcast/main/chapters"
+
+
+def load_tracklist(episode_num):
+    """Vrátí uložený tracklist epizody, nebo None když (zatím) neexistuje."""
+    if episode_num is None:
+        return None
+    path = TRACKLIST_DIR / f"{episode_num}.json"
+    if not path.exists():
+        return None
+    tracklist = json.loads(path.read_text(encoding="utf-8"))
+    return tracklist or None
+
+
+def chapter_time(seconds):
+    """Čas ve formátu HH:MM:SS pro psc:chapter."""
+    return f"{seconds // 3600:02d}:{seconds % 3600 // 60:02d}:{seconds % 60:02d}"
 
 def compute_pub_date(current_date_obj, next_date_obj, episode_num):
     """
@@ -58,7 +79,9 @@ soup = BeautifulSoup(html_content, "html.parser")
 # RSS struktura
 rss = ET.Element("rss", {
     "version": "2.0",
-    "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+    "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+    "xmlns:psc": "http://podlove.org/simple-chapters",
+    "xmlns:podcast": "https://podcastindex.org/namespace/1.0"
 })
 channel = ET.SubElement(rss, "channel")
 
@@ -133,6 +156,37 @@ else:
         ET.SubElement(item, "author").text = "Alesh Konopka"
         if e["episode_num"] is not None:
             ET.SubElement(item, "itunes:episode").text = str(e["episode_num"])
+
+        tracklist = load_tracklist(e["episode_num"])
+        if tracklist:
+            lines = [f"{t['timestamp']} {t['artist']} – {t['title']}" for t in tracklist]
+            ET.SubElement(item, "description").text = "Tracklist:\n" + "\n".join(lines)
+
+            # inline kapitoly (Podlove Simple Chapters)
+            chapters = ET.SubElement(item, "psc:chapters", {"version": "1.2"})
+            for t in tracklist:
+                ET.SubElement(chapters, "psc:chapter", {
+                    "start": chapter_time(t["time"]),
+                    "title": f"{t['artist']} – {t['title']}",
+                })
+
+            # externí kapitoly (Podcasting 2.0) — JSON soubor vedle feedu
+            CHAPTERS_DIR.mkdir(exist_ok=True)
+            chapters_json = {
+                "version": "1.2.0",
+                "chapters": [
+                    {"startTime": t["time"], "title": f"{t['artist']} – {t['title']}"}
+                    for t in tracklist
+                ],
+            }
+            chapters_path = CHAPTERS_DIR / f"{e['episode_num']}.json"
+            chapters_path.write_text(
+                json.dumps(chapters_json, ensure_ascii=False, indent=2) + "\n",
+                encoding="utf-8")
+            ET.SubElement(item, "podcast:chapters", {
+                "url": f"{CHAPTERS_URL_BASE}/{e['episode_num']}.json",
+                "type": "application/json+chapters",
+            })
 
 # Formátovaný výstup
 rough_string = ET.tostring(rss, encoding="utf-8")

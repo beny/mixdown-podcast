@@ -16,10 +16,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Python 3.x
+      - name: Set up Python 3.12
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          # shazamio (nativní jádro) zatím není spolehlivé na 3.13+
+          python-version: '3.12'
+
+      - name: Install ffmpeg (for tracklist recognition)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
 
       - name: Run run.sh script
         run: |
@@ -31,12 +37,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit and push changes if mixdown.xml changed
+      - name: Commit and push changes if feed or tracklists changed
         run: |
-          if git diff --quiet --exit-code mixdown.xml; then
-            echo "No changes in mixdown.xml to commit."
+          git add mixdown.xml tracklists chapters
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
           else
-            git add mixdown.xml
             git commit -m "Update mixdown.xml [skip ci]"
             git push
           fi
